@@ -1,3 +1,3 @@
 create a new branch is quick and simple
 add merge
-这是Mygit的提交
+这是sourceTree的提交
